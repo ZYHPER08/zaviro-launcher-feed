@@ -1,8 +1,8 @@
-version: 0.0.0
+version: 1.5.2
 files:
-  - url: placeholder
-    sha512: placeholder
-    size: 0
-path: placeholder
-sha512: placeholder
-releaseDate: '2026-10-23T11:31:23.914Z'
+  - url: https://github.com/ZYHPER08/zaviro-launcher-feed/releases/download/v1.5.2/ZAVIRO.Setup.1.5.2.exe
+    sha512: XYlLZR7TkIAps485ANesnwgiENMh6IA31y72YpoZTEllxhu+l7xeStA7gqKCsawMJBOypIaj5qbj5ZU8zytO6A==
+    size: 81441407
+path: https://github.com/ZYHPER08/zaviro-launcher-feed/releases/download/v1.5.2/ZAVIRO.Setup.1.5.2.exe
+sha512: XYlLZR7TkIAps485ANesnwgiENMh6IA31y72YpoZTEllxhu+l7xeStA7gqKCsawMJBOypIaj5qbj5ZU8zytO6A==
+releaseDate: '2026-10-23T11:31:44.942Z'
