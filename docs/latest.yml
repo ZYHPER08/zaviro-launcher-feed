@@ -1,8 +1,8 @@
-version: 1.5.3
+version: 1.5.4
 files:
-  - url: https://github.com/ZYHPER08/zaviro-launcher-feed/releases/download/v1.5.3/ZAVIRO.Setup.1.5.3.exe
-    sha512: LEa4WWy4VN+ec9J3u/ahiIgPWKbTbXHzX6gjhFav6olwicmHh2MFwGF/pTvU6+RhEkikYo2y3nzszFU431v6AA==
-    size: 76937087
-path: https://github.com/ZYHPER08/zaviro-launcher-feed/releases/download/v1.5.3/ZAVIRO.Setup.1.5.3.exe
-sha512: LEa4WWy4VN+ec9J3u/ahiIgPWKbTbXHzX6gjhFav6olwicmHh2MFwGF/pTvU6+RhEkikYo2y3nzszFU431v6AA==
-releaseDate: '2026-11-17T20:06:06.430Z'
+  - url: https://github.com/ZYHPER08/zaviro-launcher-feed/releases/download/v1.5.4/ZAVIRO.Setup.1.5.4.exe
+    sha512: zk/kHiMa/AOfRsJ70okeRrNvA4vqe8Mr2vUkR0R32aC7HsWwJZ3JxNbC7miSbF0doB4ndH9tWaOlYlpsNDO6uQ==
+    size: 81338612
+path: https://github.com/ZYHPER08/zaviro-launcher-feed/releases/download/v1.5.4/ZAVIRO.Setup.1.5.4.exe
+sha512: zk/kHiMa/AOfRsJ70okeRrNvA4vqe8Mr2vUkR0R32aC7HsWwJZ3JxNbC7miSbF0doB4ndH9tWaOlYlpsNDO6uQ==
+releaseDate: '2026-11-17T20:23:39.208Z'
